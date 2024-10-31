@@ -1,26 +1,49 @@
-img {display:block;
-    max-width:100%;
-    height:auto;
-    margin-right:auto;
-    margin-left:auto;
-    }
-    
-    h1 {text-align:center;
-    font-family:tahoma;
-    margin-top:20px;
-    box-shadow:0 0 10px 3px  grey}
-    
-    #lol {text-align:center;
-    margin-top:-5px;
-    margin-bottom:20;
-    font-family:sans-serif;}
-    #img-caption {text-align:center;
-    margin-top:4px;
-    margin-bottom:20px;}
-    #tribute-info {text-align:center;}
-    hr {height:10px;
-    background-color:grey;}
-    #kofta {text-align:center;}
-    a:visited {color:black;}
-    .first {text-align:center;
-    font-family:sans-serif;}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: tahoma;
+    margin-top: 20px;
+    box-shadow: 0 0 10px 3px grey
+}
+
+#lol {
+    text-align: center;
+    margin-top: -5px;
+    margin-bottom: 20;
+    font-family: sans-serif;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+hr {
+    height: 10px;
+    background-color: grey;
+}
+
+#kofta {
+    text-align: center;
+}
+
+a:visited {
+    color: black;
+}
+
+.first {
+    text-align: center;
+    font-family: sans-serif;
+}
